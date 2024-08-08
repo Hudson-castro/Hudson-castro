@@ -14,6 +14,5 @@
 <img  text-align= center alt = "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-![snake gif](https://github.com/Hudson-castro/Hudson-castro/blog/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/Hudson-castro/Hudson-castro/blob/output/github-contribution-grid-snake.svg)
 Explorando o mundo da programação com entusiasmo e curiosidade.
