@@ -14,14 +14,6 @@
 <img  text-align= center alt = "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-<picture >
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.dark.svg">
-<soucer media=" (prefers-color-scheme: light)" srcset="hhtps://raw.githubusercontent/
-Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/
-Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.svg">
-</picture>
-<br> <br>
+![snake gif](https://github.com/Hudson-castro/Hudson-castro/blog/output/github-contribution-grid-snake.gif)
 
 Explorando o mundo da programação com entusiasmo e curiosidade.
