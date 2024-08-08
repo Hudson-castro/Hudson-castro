@@ -13,7 +13,7 @@
 <img  text-align="center" alt = "html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img  text-align= center alt = "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
-Explorando o mundo da programação com entusiasmo e curiosidade.
+                             Explorando o mundo da programação com entusiasmo e curiosidade.
 
 ![snake gif](https://github.com/Hudson-castro/Hudson-castro/blob/output/github-contribution-grid-snake-dark.svg)
 
