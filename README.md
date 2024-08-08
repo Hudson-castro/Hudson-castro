@@ -16,9 +16,11 @@
 
 <picture >
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hudsoncastro/hudsoncastro/output/github-contribution-grid-snake.dark.svg">
-<soucer media=" (prefers-color-scheme: light)" srcset="hhtps://raw.githubusercontent/hudsoncastro/hudsoncastro/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hudsoncastro/hudsoncastro/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.dark.svg">
+<soucer media=" (prefers-color-scheme: light)" srcset="hhtps://raw.githubusercontent/
+Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/
+Hudson-castro/Hudson-castro/output/github-contribution-grid-snake.svg">
 </picture>
 <br> <br>
 
