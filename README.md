@@ -15,4 +15,5 @@
 </div><br/>
 
 ![snake gif](https://github.com/Hudson-castro/Hudson-castro/blob/output/github-contribution-grid-snake-dark.svg)
+</div><br/>
 Explorando o mundo da programação com entusiasmo e curiosidade.
