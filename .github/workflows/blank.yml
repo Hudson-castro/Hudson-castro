@@ -1,20 +1,23 @@
 name: Snake Game
 
+# Dispara a execução a cada 5 horas ou manualmente
 on:
   schedule:
-    # Será atualizado a cada 5 horas.
+    # Será atualizado a cada 5 horas
     - cron: "0 */5 * * *"
 
-  # Permite executar manualmente pela interface do GitHub Actions (utilizado para testes de build).
+  # Permite execução manual pelo GitHub Actions (para testes)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout do repositório
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Usando versão mais recente
 
+      # 2. Gerar os assets do jogo da cobrinha
       - name: Generate Snake Game Assets
         uses: Platane/snk@master
         id: snake-gif
@@ -23,9 +26,11 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Show Git Status
+      # 3. Verificar mudanças no repositório
+      - name: Check for changes
         run: git status
 
+      # 4. Fazer commit e push das alterações (agora no branch 'main')
       - name: Commit and Push Changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -33,13 +38,13 @@ jobs:
             git config --local user.name "GitHub Action"
             git add dist/
             git commit -m "Update Snake Game assets"
-            git push origin master --force
+            git push origin main --force  # Mudando de 'master' para 'main'
           else
             echo "No changes to commit."
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 5. Publicar no GitHub Pages (deploy para branch 'output')
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
