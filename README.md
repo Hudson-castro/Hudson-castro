@@ -1,47 +1,26 @@
 # Olá, eu sou Hudson Castro 👋
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
-
 💻 Desenvolvedor Back-end Júnior
 
-☕ Focado em Java, Spring Boot e APIs REST
+🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
 
-🚀 Buscando evoluir constantemente em desenvolvimento de software e arquitetura de sistemas
+☕ Especializando-me em Java, Spring Boot e APIs REST
+
+🚀 Sempre em busca de aprender novas tecnologias e construir soluções escaláveis
 
 ---
 
 ## 🚀 Tecnologias
 
-<p>
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-## 📚 Atualmente estudando
-
-- Java Orientado a Objetos
-- Spring Boot
-- APIs REST
-- JPA e Hibernate
-- Banco de Dados SQL
-- Testes Unitários
-- Arquitetura de Software
-- Microsserviços
-
----
-
-## 🎯 Objetivos
-
-- Desenvolver aplicações escaláveis com Spring Boot
-- Aprimorar conhecimentos em arquitetura de software
-- Criar APIs robustas e bem documentadas
-- Contribuir para projetos Open Source
-- Evoluir para Desenvolvedor Back-end Pleno
 
 ---
 
@@ -50,36 +29,53 @@
 ### 💰 Sistema Bancário
 Aplicação desenvolvida em Java utilizando Programação Orientada a Objetos para gerenciamento de contas bancárias.
 
-### ♻️ ResiduoZero
-Sistema para auxiliar no descarte correto de resíduos e incentivar a reciclagem através de recompensas e gamificação.
-
 ### 🚗 API Tabela FIPE
-API desenvolvida em Java para consulta de marcas, modelos e valores de veículos utilizando a Tabela FIPE.
+API para consulta de marcas, modelos e valores de veículos utilizando dados da Tabela FIPE.
+
+### ♻️ ResiduoZero
+Plataforma voltada ao descarte consciente de resíduos, incentivando reciclagem e sustentabilidade.
 
 ---
 
-## 🐍 Contribuições
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hudson-castro&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-castro&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
----
-
-## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hudson-castro&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-castro&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hudson-castro&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Redes Sociais
+## 🐍 Atividade de Contribuições
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-castro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hudsonn_castro/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hudson.castrofranca)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos interessantes.
+## 🌐 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hudson-castro/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/hudsonn_castro/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/hudson.castrofranca">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Transformando aprendizado em projetos e projetos em experiência.**
