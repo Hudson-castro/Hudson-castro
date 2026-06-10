@@ -6,8 +6,7 @@
 
 ![Hudson GitHub stats](https://github-readme-stats.vercel.app/api?username=Hudson-castro&show_icons=true&theme=dracula)
 
-
-<div style="display: inline_block"><br/>
+### Tecnologias que uso no meu dia a dia  
 
 <img align="center" alt="Java" 
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -26,15 +25,6 @@ src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoCo
 
 <img align="center" alt="Linux" 
 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-### Tecnologias que uso no meu dia a dia  
-
-<div style = "Display: inline_block" ><br/>
-<img text-align="center" alt="Java" src="https://shields.io" />
-<img text-align="center" alt="Spring Boot" src="https://shields.io" />
-<img text-align="center" alt="SQL/MySQL" src="https://shields.io" />
-<img  text-align= center alt = "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
                              Explorando o mundo da programação com entusiasmo e curiosidade.
 
