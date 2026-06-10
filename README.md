@@ -58,14 +58,6 @@ API desenvolvida em Java para consulta de marcas, modelos e valores de veículos
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hudson-castro&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🐍 Contribuições
 
 <p align="center">
