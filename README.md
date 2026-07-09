@@ -1,16 +1,16 @@
 # Olá, eu sou Hudson Castro 👋
 
-💻 Desenvolvedor Back-end Júnior
+💻 **Desenvolvedor de Software**
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
+🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**
 
-☕ Especializando-me em Java, Spring Boot e APIs REST
+☕ Especializando-me em **Java, Spring Boot e APIs REST**
 
-🚀 Sempre em busca de aprender novas tecnologias e construir soluções escaláveis
+🚀 Sempre em busca de aprender novas tecnologias e construir soluções escaláveis.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -24,53 +24,65 @@
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 
 ### 💰 Sistema Bancário
 Aplicação desenvolvida em Java utilizando Programação Orientada a Objetos para gerenciamento de contas bancárias.
 
 ### 🚗 API Tabela FIPE
-API para consulta de marcas, modelos e valores de veículos utilizando dados da Tabela FIPE.
+API REST para consulta de marcas, modelos e preços de veículos utilizando dados da Tabela FIPE.
 
 ### ♻️ ResiduoZero
 Plataforma voltada ao descarte consciente de resíduos, incentivando reciclagem e sustentabilidade.
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hudson-castro&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-castro&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Hudson-castro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-castro&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hudson-castro&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Hudson-castro&theme=github-dark-blue&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🐍 Atividade de Contribuições
+# 🐍 Atividade de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hudson-castro/hudson-castro/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🌐 Conecte-se comigo
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/hudson-castro/">
+<a href="https://www.linkedin.com/in/hudson-castro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/hudsonn_castro/">
+<a href="https://www.instagram.com/hudsonn_castro/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/hudson.castrofranca">
+<a href="https://www.facebook.com/hudson.castrofranca" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
