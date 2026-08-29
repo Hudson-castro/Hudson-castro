@@ -1,15 +1,26 @@
-<h1 align="center">Olá, eu sou Hudson Castro 👋</h1>
+<h1 align="center">Hudson Castro</h1>
 
 <p align="center">
-💻 <strong>Desenvolvedor de Software</strong><br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)<br>
-☕ Especializando-me em Java, Spring Boot e APIs REST<br>
-🚀 Desenvolvendo soluções com foco em qualidade, boas práticas e aprendizado contínuo.
+<strong>Desenvolvedor Back-end Júnior | Java | Spring Boot | PostgreSQL</strong>
+</p>
+
+<p align="center">
+Foco no desenvolvimento de APIs REST e aplicações back-end com Java e Spring Boot.
 </p>
 
 ---
 
-## 💻 Stack Tecnológica
+## Sobre mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas e tenho como foco o desenvolvimento back-end com Java.
+
+Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, desenvolvimento de APIs REST, persistência de dados e organização de aplicações.
+
+Utilizo este perfil para compartilhar projetos, estudos e aplicações desenvolvidas durante minha evolução como desenvolvedor.
+
+---
+
+## Tecnologias
 
 <p align="center">
 
@@ -17,63 +28,90 @@
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos
 
-### 💰 Sistema Bancário
+### API User
 
-Aplicação desenvolvida em Java utilizando Programação Orientada a Objetos (POO), simulando operações bancárias e aplicando conceitos como encapsulamento, herança e polimorfismo.
+API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários.
 
----
+O projeto utiliza conceitos de CRUD, DTOs, validação de dados, JPA e organização em camadas.
 
-### 🚗 API Tabela FIPE
-
-API REST desenvolvida em Java para consulta de marcas, modelos e preços de veículos utilizando a API pública da Tabela FIPE.
+**Tecnologias:** Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL.
 
 ---
 
-### ♻️ ResiduoZero
+### Biblioteca Virtual API
 
-Plataforma voltada ao descarte consciente de resíduos, incentivando reciclagem, sustentabilidade e educação ambiental através da tecnologia.
+API desenvolvida em Java para praticar conceitos de desenvolvimento back-end, consumo de APIs e manipulação de dados.
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hudson-castro&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-> **Observação:** Os cards de estatísticas do GitHub Readme Stats estão temporariamente indisponíveis. Assim que o serviço voltar ao normal, eles poderão ser adicionados novamente.
+**Tecnologias:** Java, Spring Boot e APIs REST.
 
 ---
 
-## 🐍 Atividade de Contribuições
+### Desafio Tabela FIPE
 
-<p align="center">
+Aplicação desenvolvida em Java para consumo de uma API externa e consulta de informações sobre veículos, marcas e modelos.
 
-<img src="https://raw.githubusercontent.com/Hudson-castro/Hudson-castro/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+O projeto trabalha com requisições HTTP, conversão de dados JSON e manipulação de informações recebidas da API.
 
-</p>
+**Tecnologias:** Java, Spring Boot e API REST.
 
 ---
 
-## 🌐 Conecte-se comigo
+### Screenmatch
+
+Aplicação desenvolvida em Java para praticar consumo de API, conversão de dados JSON e persistência de informações.
+
+**Tecnologias:** Java, Spring Boot, Jackson e PostgreSQL.
+
+---
+
+## Conhecimentos
+
+* Programação Orientada a Objetos com Java
+* Desenvolvimento de APIs REST
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* DTOs e validação de dados
+* PostgreSQL
+* Consumo de APIs externas
+* Maven
+* Git e GitHub
+* Docker
+
+---
+
+## Atualmente estudando
+
+Meu foco atual é continuar evoluindo no desenvolvimento back-end com Java e Spring Boot, principalmente em:
+
+* Desenvolvimento de APIs REST
+* Persistência e relacionamento de dados
+* Tratamento e validação de requisições
+* Organização e manutenção de aplicações
+* Testes automatizados
+* Boas práticas de desenvolvimento
+
+---
+
+## Contato
 
 <p align="center">
 
@@ -81,20 +119,10 @@ Plataforma voltada ao descarte consciente de resíduos, incentivando reciclagem,
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/hudsonn_castro/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/hudson.castrofranca" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 <p align="center">
-
-⭐ <strong>Transformando aprendizado em projetos e projetos em experiência.</strong>
-
+<strong>Java • Spring Boot • Back-end</strong>
 </p>
